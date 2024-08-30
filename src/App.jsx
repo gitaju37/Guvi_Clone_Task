@@ -7,11 +7,18 @@ import Fsd from "./Components/Fsd"
 import DataSnce from "./Components/DataSnce"
 import Cyber from "./Components/Cyber"
 import BlkChain from "./Components/BlkChain"
+import fsd from "./assets/fsd-1.jpg"
+import data3 from "./assets/data3.jpg"
+import data4 from "./assets/data4.jpg"
+import cyber1 from "./assets/cyber1.jpg"
+import cyber2 from "./assets/cyber2.jpg"
+import cyber3 from "./assets/cyber3.jpg"
+import blk1 from "./assets/blk1.jpeg"
 
 const App = () => {
 
   let data = [ {
-    image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+    image: fsd,
     head: "Full Stack Developement",
     content: "Best Full-Stack Development Project Ideas in 2024",
     date: "27 Aug"
@@ -47,31 +54,31 @@ const App = () => {
       date: "25 Mar"
     },
     {
-      image: "https://www.guvi.in/blog/wp-content/uploads/2022/06/5.-data-science-2048x1072.png",
+      image: data3,
       head: "Data Science",
       content: "Can A Commerce Student Do Data Science?",
       date: "16 Apr"
     },
     {
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/image-4.png",
+      image: data4,
       head: "Data Science",
       content: "Roles and Responsibilities of a Data Scientist",
       date: "16 Apr"
     },
     {
-      image: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1200x675.png",
+      image: cyber1,
       head: "Cyber Security",
       content: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
       date: "16 Apr"
     },
     {
-      image: "https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif",
+      image: cyber2,
       head: "Cyber Security",
       content: "Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity?",
       date: "25 Mar"
     },
     {
-      image: "https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-1024x536.png",
+      image: cyber3,
       head: "Cyber Security",
       content: "The Cybersecurity Surge: 5 Must-Have Cybersecurity Certifications!",
       date: "16 Mar"
@@ -89,7 +96,7 @@ const App = () => {
       date: "25 Aug"
     },
     {
-      image: "https://www.guvi.in/blog/wp-content/uploads/2020/11/word-image-1-1.jpeg",
+      image: blk1,
       head: "BlockChain",
       content: "A Guide To Learning Blockchain Technology From Scratch",
       date: "25 Oct"
