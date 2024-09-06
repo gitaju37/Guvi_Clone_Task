@@ -1,8 +1,14 @@
-# React + Vite
+# GUVI BLOG CLONE TASK :dart:
+## OVERVIEW :books:
+**This is a React application that demonstrates various categories of technology-related content. It includes routing, component organization, and image management to display different types of content dynamically.**
+## FEATURES :hammer_and_wrench:
+- **Navigation:** Dynamic navigation bar for accessing different sections.
+- **Header:** A static header for branding or introductory content.
+- **Routing:** Different routes to navigate between pages.
+- **Data Handling:** Display of various technology topics with corresponding images and descriptions.
+## TECHNOLOGIES USED :bow_and_arrow:
+- **React.js**:electron:
+- **JavaScript**:closed_book:
+- **React Router Dom**:parachute:
+- **Bootstrap**:art:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
